@@ -1,0 +1,43 @@
+---노션---
+https://incredible-guan-388.notion.site/1-eb86a05165394d649e6d3017f1cb4cbe
+
+데이터 모델링 수업
+
+관계형 데이터를 다룰수 있는 사람들을 위한 수업 이라고 한다!!
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a156cc82-d201-4160-ac40-16f8ab23f7dc/bb6c43ed-6b5a-44e8-8a18-d7d46595300a/Untitled.png)
+
+약간 기본사용법은 알겠는데 어? 어캐 활용하지? 이럴때 이강의를 찾아온거면 잘찾온거 같다.
+
+1. 관계형 데이터 모델에서 표를 만들고 
+2. 표와 표를 연결 할수있는 join을 해본정도가 있다
+
+이정도가 기본 입구 커트라인입니다. 
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a156cc82-d201-4160-ac40-16f8ab23f7dc/28b6eeaa-eed0-4f67-b322-20a284b90d9a/Untitled.png)
+
+모델의 정의를 알아봅시다.
+
+어떤 목적을 가지고 진짜를 모방한것이 모델이 아닐까?
+
+좋은 모델이란 목적에 부합하는 모방 이라고 할수 있다.
+
+우리의 목적 컴퓨터 쫌더 정확하게 하면 → DataBase 좀더 구체적으로 말하면 → 관계형 데이터 모델 → 표의 정보를 담는것
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a156cc82-d201-4160-ac40-16f8ab23f7dc/0c1fdf9e-5ec8-4333-aa25-f2da930ac1c9/Untitled.png)
+
+일단 DB를 이 표에 담는것에 성공만 한다고하면 인간의 기본적인 능력으로는 상상도 할수도 없는 거대한 데이터 정보를 다룰수 있다는거
+
+But 하지만 이것을 정보로 만들어서 표에 담아내는것은 너무나도 귀찮고 힘든작업이다 이말임
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a156cc82-d201-4160-ac40-16f8ab23f7dc/21f15236-b5e1-42ef-a905-d4ac9709d543/Untitled.png)
+
+하지만 사람들은 이러한 작업들을 단순화 시키고 사용하기 쉬운 기가막힌 방법론이
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a156cc82-d201-4160-ac40-16f8ab23f7dc/f2e2e6d1-ead7-4c1a-b6b2-9964a35e4458/Untitled.png)
+
+데이터 모델링 
+
+이삿집 센터라고 생각하면 좋을꺼 같고 
+
+어떠하게 큰 데이터도 표에 담을수 있다고만 생각하시면 좋습니다.
